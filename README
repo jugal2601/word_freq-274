@@ -1,0 +1,10 @@
+Included Files:
+	*word_frequency:
+		*freq.py
+		*README
+
+Running Instructions:
+	*call the python code using "python3 freq.py <inputfilename>"
+
+Notes and Assumptions:
+	*None
